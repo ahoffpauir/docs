@@ -48,8 +48,8 @@ In order to connect your Jasper service to your {{site.data.keyword.iot_short_no
 1. Enable the Jasper extension. To enable Jasper integration with your {{site.data.keyword.iot_short_notm}} organization, complete the following steps:
   1. From the {{site.data.keyword.iot_short_notm}} dashboard, select **Extensions**.
   2. In the **Extensions** page, click **Add Extension**.
-  3. Click **Add** next to AT&T.
-  4. Enter your AT&T username, password, access key and domain ID.
+  3. Click **Add** next to Jasper.
+  4. Enter your Jasper username, password, access key and domain ID.
   5. Click **Done**.
 
 2. Configure your devices
